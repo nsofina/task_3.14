@@ -12,9 +12,9 @@ ___
 
 3. Задайте настройки. Для этого в терминале или консоли выполните команды
 
-    > git config --global user.name "My Name"
+    > git config --global user.name "имя_пользователя"
 
-    > git config --global user.email myEmail@example.com
+    > git config --global user.email "электронная_почта"
 
 ___
 ___
