@@ -14,7 +14,7 @@ ___
 
     > git config --global user.name "имя_пользователя"
 
-    > git config --global user.email "электронная_почта"
+    > git config --global user.email электронная_почта
 
 ___
 ___
